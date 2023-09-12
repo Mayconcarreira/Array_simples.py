@@ -1,7 +1,10 @@
+
+#inicialização da lista
+
 lista = [12, 10, 7, 5]
 lista_animais = ['cachorro', 'gato', 'elefante', 'lobo', 'arara']
 
-
+#inserir elemento macaco na lista na primeira posição
 lista_animais[0]= 'macaco'
 print(lista_animais)
 
